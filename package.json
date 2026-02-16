@@ -1,0 +1,11 @@
+{
+  "name": "weather-secure-app",
+  "version": "1.0.0",
+  "description": "Secure Weather App for CI/CD exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Soham Dave",
+  "license": "MIT"
+}
